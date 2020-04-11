@@ -17,8 +17,7 @@
         <number_ref display_value="NI">1e427f010fe83200cd674f8ce1050e8b</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <scriptable_table>false</scriptable_table>
-        <super_class display_value="Task" name="task">765094b4db120010da88e04a489619fc</super_class>
+        <super_class display_value="Task" name="task">8369d485e82100107850694c2d9d2df7</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
